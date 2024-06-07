@@ -1,2 +1,4 @@
 # Entrirepo
 Excel Project
+This project analyzes the dataset of bike buyers,focusing on demographics,income,car,ownership&   bike purchasing behaviour.The data includes detailed individual records&several pivot tables summarizes key insights.Both male and female are well represented in the dataset and the educational qualifications and occupation covers a large range and covers various region.
+          Income levels are similar between bike buyers and non-buyers,indicating that factors other than income might influence like bike purchasing decisions.Car ownership is correlated with income upto a point,suggesting that ownig more than 2 cars does not necessarily correspond to higher income.Educational attainment influencs car ownership,with those holding bachelor's degrees owning the most cars.Professionals and management occupation dominate in terms of income contribution and professionals are more likely to own multiple cars.
